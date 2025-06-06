@@ -5,3 +5,4 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 Relatórios:
 
 - [report_001 - Selo de Usabilidade e Acessibilidade](https://github.com/unidade-acesso/report_001/)
+- [report_002 - Câmara Municipal do Barreiro](https://github.com/unidade-acesso/report_002/)
