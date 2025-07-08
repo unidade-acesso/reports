@@ -7,3 +7,4 @@ Relatórios:
 - [report_001 - Selo de Usabilidade e Acessibilidade](https://github.com/unidade-acesso/report_001/)
 - [report_002 - Câmara Municipal do Barreiro](https://github.com/unidade-acesso/report_002/)
 - [report_003 - Programa PTCRIS](https://github.com/unidade-acesso/report_003/)
+- [report_004 - Inspeção-Geral de Finanças - Autoridade de Auditoria](https://github.com/unidade-acesso/report_004/)
