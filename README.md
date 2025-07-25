@@ -4,7 +4,6 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 
 ## Recursos de apoio:
 - [Abrir o guia de utilização do relatório das auditorias](https://github.com/unidade-acesso/reports/blob/main/guia-utilizacao-relatorio-auditorias.html)
-- 
 
 ## Lista de Relatórios:
 - [report_001 - Selo de Usabilidade e Acessibilidade](https://github.com/unidade-acesso/report_001/)
