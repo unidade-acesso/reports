@@ -14,36 +14,67 @@
       margin: 0;
       color: #000;
     }
+
     .container {
       max-width: 900px;
       margin: 0 auto;
       padding: 2rem;
     }
-    h1, h2 {
+
+    h1, h2, h3 {
       color: #003366;
     }
+
     nav ul {
       list-style-type: none;
       padding-left: 0;
     }
+
     nav ul li {
       margin: 0.5em 0;
     }
+
     a {
       color: #0055aa;
       text-decoration: none;
     }
+
     a:hover, a:focus {
       text-decoration: underline;
       outline: 2px solid #000;
       outline-offset: 2px;
     }
+
     section {
       margin-top: 2em;
+    }
+
+    .enfase {
+      font-weight: bold;
+    }
+
+    .skip-link {
+      position: absolute;
+      top: 0;
+      left: 0;
+      background: #fff;
+      color: #000;
+      padding: 8px;
+      z-index: 1000;
+      transform: translateY(-100%);
+      transition: transform 0.3s ease;
+    }
+
+    .skip-link:focus {
+      transform: translateY(0);
     }
   </style>
 </head>
 <body>
+
+  <!-- Link para saltar diretamente ao conteúdo principal -->
+  <a href="#maincontent" class="skip-link">Saltar para o conteúdo principal</a>
+
   <div class="container">
     <header>
       <h1 id="topo">Guia de utilização do Relatório de Auditoria</h1>
@@ -66,30 +97,30 @@
       </ul>
     </nav>
 
-    <main>
+    <main id="maincontent">
       <section id="passo1">
         <h2>Passo 1: Aceder ao Relatório</h2>
-        <p>A <strong>equipa de auditores</strong> irá enviar-lhe, por email, o <strong>link de acesso ao repositório da auditoria</strong>.</p>
+        <p><span class="enfase">A equipa de auditores</span> irá enviar-lhe, por email, o <span class="enfase">link de acesso ao repositório da auditoria</span>.</p>
         <p>No topo da página encontrará:</p>
         <ul>
           <li>Nome do site ou aplicação móvel</li>
           <li>URL</li>
           <li>Nome do proprietário</li>
           <li>Tipo de selo a que se está a candidatar</li>
-          <li><strong>Link de acesso direto ao relatório</strong></li>
-          <li><strong>Recursos de apoio ao relatório</strong> (ex: guias explicativos ou documentação complementar, em caso de dúvidas)</li>
+          <li><span class="enfase">Link de acesso direto ao relatório</span></li>
+          <li><span class="enfase">Recursos de apoio ao relatório</span> (ex: guias explicativos ou documentação complementar, em caso de dúvidas)</li>
         </ul>
       </section>
 
       <section id="passo2">
         <h2>Passo 2: Utilizar o Índice de Conteúdos</h2>
-        <p>Ao clicar no <strong>link de acesso</strong>, será direcionado para o relatório online.</p>
-        <p>Já dentro do relatório, encontrará um <strong>índice de conteúdos</strong> no início da página que lhe permite navegar rapidamente entre as secções através de atalhos diretos.</p>
+        <p>Ao clicar no <span class="enfase">link de acesso</span>, será direcionado para o relatório online.</p>
+        <p>Já dentro do relatório, encontrará um <span class="enfase">índice de conteúdos</span> no início da página que lhe permite navegar rapidamente entre as secções através de atalhos diretos.</p>
       </section>
 
       <section id="passo3">
         <h2>Passo 3: Analisar a Visão Geral</h2>
-        <p>Consulte a <strong>visão geral</strong> do relatório, que inclui:</p>
+        <p>Consulte a <span class="enfase">visão geral</span> do relatório, que inclui:</p>
         <ul>
           <li>Estado por tipo de avaliação</li>
           <li>Níveis de conformidade por checklist</li>
@@ -100,15 +131,15 @@
         <h2>Passo 4: Explorar a Análise Detalhada</h2>
         <p>A análise do relatório está organizada em diferentes tipos de avaliação para facilitar a compreensão:</p>
         <ul>
-          <li><strong>Avaliação Automática</strong> – realizada com ferramentas automáticas de verificação</li>
-          <li><strong>Avaliação Manual</strong> – conduzida por especialistas, dividida em 3 checklists:
+          <li><span class="enfase">Avaliação Automática</span> – realizada com ferramentas automáticas de verificação</li>
+          <li><span class="enfase">Avaliação Manual</span> – conduzida por especialistas, dividida em 3 checklists:
             <ul>
-              <li>10 Aspetos</li>
-              <li>Conteúdo</li>
-              <li>Transação</li>
+              <li><h3>10 Aspetos</h3></li>
+              <li><h3>Conteúdo</h3></li>
+              <li><h3>Transação</h3></li>
             </ul>
           </li>
-          <li><strong>Outras Violações</strong> – casos adicionais que não se enquadram nos critérios anteriores, mas que devem ser considerados</li>
+          <li><span class="enfase">Outras Violações</span> – casos adicionais que não se enquadram nos critérios anteriores, mas que devem ser considerados</li>
         </ul>
       </section>
 
@@ -124,7 +155,7 @@
 
       <section id="passo6">
         <h2>Passo 6: Consultar as Evidências no GitHub</h2>
-        <p>Use os botões <strong>"Ver detalhes no GitHub"</strong> para aceder às evidências da auditoria.</p>
+        <p>Use os botões <span class="enfase">"Ver detalhes no GitHub"</span> para aceder às evidências da auditoria.</p>
         <p>No GitHub encontrará:</p>
         <ul>
           <li>Título do erro</li>
@@ -139,7 +170,7 @@
         <p>Siga estes passos para criar a sua conta:</p>
         <ul>
           <li>Aceda a <a href="https://github.com/" target="_blank">github.com</a></li>
-          <li>Clique em <strong>"Sign Up"</strong> no canto superior direito</li>
+          <li>Clique em <span class="enfase">"Sign Up"</span> no canto superior direito</li>
           <li>Preencha o formulário com email, nome de utilizador e palavra‑passe</li>
           <li>Siga os passos de verificação (pode incluir validação por email)</li>
           <li>Após criar a conta, inicie sessão e participe nas discussões</li>
@@ -167,7 +198,7 @@
         <p>À medida que for implementando as correções:</p>
         <ul>
           <li>Adicione comentários na secção correspondente do GitHub</li>
-          <li>Descreva as alterações feitas e, sempre que possível, anexe <strong>evidências</strong> (ex: capturas de ecrã, links atualizados, ficheiros modificados)</li>
+          <li>Descreva as alterações feitas e, sempre que possível, anexe <span class="enfase">evidências</span> (ex: capturas de ecrã, links atualizados, ficheiros modificados)</li>
         </ul>
         <p>Os auditores irão acompanhar o progresso, validar as correções efetuadas e reavaliar os requisitos com base na nova informação fornecida.</p>
       </section>
@@ -175,8 +206,8 @@
       <section id="final">
         <h2>Final</h2>
         <p>Agora que conhece todas as funcionalidades do relatório e da plataforma GitHub, está pronto para avançar.</p>
-        <p><strong>Mãos à obra!</strong> Qualquer dúvida, interaja via GitHub.</p>
-        <p><strong>Bom trabalho!</strong></p>
+        <p><span class="enfase">Mãos à obra!</span> Qualquer dúvida, interaja via GitHub.</p>
+        <p><span class="enfase">Bom trabalho!</span></p>
         <p><a href="#topo">Voltar ao topo</a></p>
       </section>
     </main>
