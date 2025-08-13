@@ -10,3 +10,4 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_002 - Câmara Municipal do Barreiro](https://unidade-acesso.github.io/report_002/)
 - [report_003 - Programa PTCRIS](https://github.com/unidade-acesso/report_003/)
 - [report_004 - Inspeção-Geral de Finanças - Autoridade de Auditoria](https://github.com/unidade-acesso/report_004/)
+- [report_005 - Câmara Municipal de Valongo](https://github.com/unidade-acesso/report_005/)
