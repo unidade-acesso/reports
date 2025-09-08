@@ -11,3 +11,5 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_003 - Programa PTCRIS](https://github.com/unidade-acesso/report_003/)
 - [report_004 - Inspeção-Geral de Finanças - Autoridade de Auditoria](https://github.com/unidade-acesso/report_004/)
 - [report_005 - Câmara Municipal de Valongo](https://github.com/unidade-acesso/report_005/)
+- [report_006 - Livraria Online do Teatro Nacional D. Maria II](https://github.com/unidade-acesso/report_006/)
+- [report_007 - Serviços Municipalizados de Alcobaça](https://github.com/unidade-acesso/report_007/)
