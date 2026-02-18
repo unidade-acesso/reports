@@ -15,3 +15,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_010 - Entidade Nacional para o Sector Energético ENSE-EP](https://github.com/unidade-acesso/report_010/)
 - [report_012 - PRR - WireMaze - Pack 20](https://github.com/unidade-acesso/report_012/)
 - [report_013 - Câmara Municipal de Sabugal](https://github.com/unidade-acesso/report_013/)
+- [report_014 - BIP: Barómetro para a Qualidade da Informação](https://github.com/unidade-acesso/report_014/)
+- [report_015 - SNS 24: área pública sem login](https://github.com/unidade-acesso/report_015/)
+- [report_016 - Compete 2030](https://github.com/unidade-acesso/report_016/)
+- [report_017 - SMOS: Sistema de Monitorização da Ocupação do Solo](https://github.com/unidade-acesso/report_017/)
