@@ -22,3 +22,4 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_018 - Casa Pia (website)](https://github.com/unidade-acesso/report_018/)
 - [report_021 - Museu da Chapelaria](https://github.com/unidade-acesso/report_021/)
 - [report_022 - Museu do Calçado](https://github.com/unidade-acesso/report_022/)
+- [report_023 - Câmara Municipal de São João da Madeira](https://github.com/unidade-acesso/report_023/)
