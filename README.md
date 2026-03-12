@@ -26,4 +26,8 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_022 - Portal dos Territórios Inteligentes da ENTI](https://github.com/unidade-acesso/report_022/)
 - [report_023 - Município de Oliveira do Hospital](https://github.com/unidade-acesso/report_023/)
 - [report_024 - Ágora DS](https://github.com/unidade-acesso/report_024/)
-- [report_025 - PRR - Município de Alcoutim - Visual Forma](https://github.com/unidade-acesso/report_025/)
+- [report_025 - Santa Casa da Misericórdia - Pack 2](https://github.com/unidade-acesso/report_025/)
+- [report_026 - PRR - Município de Alcoutim - Visual Forma](https://github.com/unidade-acesso/report_026/)
+
+
+
