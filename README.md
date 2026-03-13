@@ -9,7 +9,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_004 - Inspeção-Geral de Finanças - Autoridade de Auditoria](https://github.com/unidade-acesso/report_004/)
 - [report_005 - Câmara Municipal de Valongo](https://github.com/unidade-acesso/report_005/)
 - [report_006 - Livraria Online do Teatro Nacional D. Maria II](https://github.com/unidade-acesso/report_006/)
-- [report_007 - Serviços Municipalizados de Alcobaça - Não foi inserido no Github](https://github.com/unidade-acesso/report_007/)
+- [report_007 - Vila do Bispo](https://github.com/unidade-acesso/report_007/)
 - [report_008 - FA / CMD - Simulador de atributos do AutenticaçãoGov](https://github.com/unidade-acesso/report_008/) 
 - [report_009 - AICEP Invest in Portugal](https://github.com/unidade-acesso/report_009/)
 - [report_010 - Entidade Nacional para o Sector Energético ENSE-EP](https://github.com/unidade-acesso/report_010/)
