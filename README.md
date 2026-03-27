@@ -26,7 +26,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_022 - Portal dos Territórios Inteligentes da ENTI](https://github.com/unidade-acesso/report_022/)
 - [report_023 - Município de Oliveira do Hospital](https://github.com/unidade-acesso/report_023/)
 - [report_024 - Ágora DS](https://github.com/unidade-acesso/report_024/)
-- [report_025 - Santa Casa da Misericórdia - Pack 2](https://github.com/unidade-acesso/report_025/)
+- [report_025 - Escola Superior de Saúde do Alcoitão - ESSAlcoitão (Área Pública)](https://github.com/unidade-acesso/report_025/)
 - [report_026 - PRR - Município de Alcoutim - Visual Forma](https://github.com/unidade-acesso/report_026/)
 - [report_027 - Câmara Municipal de Bragança (sítio Web institucional)](https://github.com/unidade-acesso/report_027/)
 - [report_028 - Câmara Municipal de Guimarães (sítio Web institucional)](https://github.com/unidade-acesso/report_028/)
@@ -48,6 +48,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_044 - Câmara Municipal de Oliveira do Bairro (sítio Web institucional)](https://github.com/unidade-acesso/report_044/)
 - [report_045 - Câmara Municipal de Vagos (sítio Web institucional)](https://github.com/unidade-acesso/report_045/)
 - [report_046 - Câmara Municipal de Valongo (sítio Web institucional)](https://github.com/unidade-acesso/report_046/)
+- [report_047 - Temporada Música em São Roque](https://github.com/unidade-acesso/report_047/)
 
 
 
