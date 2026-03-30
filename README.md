@@ -51,6 +51,9 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_047 - Temporada Música em São Roque](https://github.com/unidade-acesso/report_047/)
 - [report_048 - Museu da Chapelaria](https://github.com/unidade-acesso/report_048/)
 - [report_049 - Museu do Calçado](https://github.com/unidade-acesso/report_049/)
-
+- [report_050 - Cinema São Jorge - EGEAC](https://github.com/unidade-acesso/report_050/)
+- [report_051 - Direção-Geral do Consumidor](https://github.com/unidade-acesso/report_051/)
+- [report_052 - PRR - Município de Felgueiras](https://github.com/unidade-acesso/report_052/)
+- [report_053 - BUPi - eBUPi](https://github.com/unidade-acesso/report_053/)
 
 
