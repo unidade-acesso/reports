@@ -55,5 +55,9 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_051 - Direção-Geral do Consumidor](https://github.com/unidade-acesso/report_051/)
 - [report_052 - PRR - Município de Felgueiras](https://github.com/unidade-acesso/report_052/)
 - [report_053 - BUPi - eBUPi](https://github.com/unidade-acesso/report_053/)
-
+- [report_054 - APPACDM Viseu](https://github.com/unidade-acesso/report_054/)
+- [report_055 - Municipio de São João da Madeira APP Android](https://github.com/unidade-acesso/report_055/)
+- [report_056 - CM Celorico de Basto](https://github.com/unidade-acesso/report_056/)
+- [report_057 - Plataforma de indicadores, estatísticas e dados abertos da Justiça - DGPJ](https://github.com/unidade-acesso/report_057/)
+- [report_058 - POLEN - FCCN](https://github.com/unidade-acesso/report_058/)
 
