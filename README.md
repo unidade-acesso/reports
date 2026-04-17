@@ -53,7 +53,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_049 - Museu do Calçado](https://a11y-pt.github.io/report_049/)
 - [report_050 - Cinema São Jorge - EGEAC](https://a11y-pt.github.io/report_050/)
 - [report_051 - Direção-Geral do Consumidor](https://a11y-pt.github.io/report_051/)
-- [report_052 - PRR - Câmara de Felgueiras](https://a11y-pt.github.io/report_052/)
+- [report_052 - PRR - Câmara Municipal de Felgueiras](https://a11y-pt.github.io/report_052/)
 - [report_053 - BUPi - eBUPi](https://a11y-pt.github.io/report_053/)
 - [report_054 - APPACDM Viseu](https://a11y-pt.github.io/report_054/)
 - [report_055 - Municipio de São João da Madeira APP Android](https://a11y-pt.github.io/report_055/)
