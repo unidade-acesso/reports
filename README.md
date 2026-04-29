@@ -22,7 +22,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_018 - Casa Pia (website)](https://a11y-pt.github.io/report_018/)
 - [report_019 - PRR - Câmara de Alcobaça - Visual Forma](https://a11y-pt.github.io/report_019/)
 - [report_020 - PRR - Municipio da Madeira (sítio Web institucional)](https://a11y-pt.github.io/report_020/)
-- [report_021 - PRR - Municipio de Câmara de Lobos - Pack 10 - WNPC](https://a11y-pt.github.io/report_021/)
+- [report_021 - PRR - Alerta Lobos - WNPC](https://a11y-pt.github.io/report_021/)
 - [report_022 - Portal dos Territórios Inteligentes da ENTI](https://a11y-pt.github.io/report_022/)
 - [report_023 - Município de Oliveira do Hospital](https://a11y-pt.github.io/report_023/)
 - [report_024 - Ágora DS](https://a11y-pt.github.io/report_024/)
@@ -60,4 +60,9 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_056 - PRR - Câmara Municipal Celorico de Basto](https://a11y-pt.github.io/report_056/)
 - [report_057 - Plataforma de indicadores, estatísticas e dados abertos da Justiça - DGPJ](https://a11y-pt.github.io/report_057/)
 - [report_058 - POLEN - FCCN](https://a11y-pt.github.io/report_058/)
+- [report_059 - PRR Portal da Defesa Nacional - Secretaria-Geral do Ministério da Defesa Nacional](https://a11y-pt.github.io/report_059/)
+- [report_060 - PRR - Câmara Municipal de Câmara de Lobos](https://a11y-pt.github.io/report_060/)
+- [report_061 - PRR - Agenda Municipal de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_061/)
+- [report_062 - PRR - Alerta Lobos - WNPC](https://a11y-pt.github.io/report_062/)
+- 
 
