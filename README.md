@@ -63,6 +63,13 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_059 - PRR Portal da Defesa Nacional - Secretaria-Geral do Ministério da Defesa Nacional](https://a11y-pt.github.io/report_059/)
 - [report_060 - PRR - Câmara Municipal de Câmara de Lobos](https://a11y-pt.github.io/report_060/)
 - [report_061 - PRR - Agenda Municipal de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_061/)
-- [report_062 - PRR - Alerta Lobos - WNPC](https://a11y-pt.github.io/report_062/)
-- 
+- [report_062 - PRR - Urbanismo de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_062/)
+- [report_063 - PRR - Portal do Associativismo de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_063/)
+- [report_064 - PRR - Portal das Bolsas de Estudo de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_064/)
+- [report_065 - PRR - Portal da Bolsa de Emprego de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_065/) 
+- [report_066 - PRR - Causa Animal de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_066/) 
+- [report_067 - PRR - Assembleia Municipal de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_067/) 
+- [report_068 - PRR - Balcão Online Municipal Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_068/) 
+
+
 
